@@ -3,7 +3,7 @@ Version: 18.01.23
 Section: misc
 Priority: optional
 Architecture: all
-Depends: php(>=0), php-bcmath(>=0), php-xml(>=0)
+Depends: php(>=0), php-bcmath(>=0), php-xml(>=0), libapache2-mod-php7.0(>=0)
 Installed-Size: 100
 Maintainer: Markus Mandalka <info@opensemanticsearch.org>
 Homepage: https://opensemanticsearch.org/
